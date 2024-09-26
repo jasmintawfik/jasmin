@@ -1,0 +1,2 @@
+# jasmin
+torsdags opgave 
